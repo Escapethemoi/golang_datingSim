@@ -5,9 +5,9 @@ An old-school dating simulator parody in finnish, made for my go programming cou
 coming
 
 # Sources
-*https://gobyexample.com/
-*https://tour.golang.org/
-*https://golang.org/pkg/time/
-*https://golangcode.com/sleeping-with-go/
-*https://www.asciiart.eu/people/women
-*https://www.piliapp.com/emoticon/lenny-face/
+* https://gobyexample.com/
+* https://tour.golang.org/
+* https://golang.org/pkg/time/
+* https://golangcode.com/sleeping-with-go/
+* https://www.asciiart.eu/people/women
+* https://www.piliapp.com/emoticon/lenny-face/
